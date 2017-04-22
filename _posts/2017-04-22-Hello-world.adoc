@@ -9,3 +9,6 @@
 = Hello world
 
 Starting hubpress
+
+:hp-tags: first
+:published_at: 2017-04-22
